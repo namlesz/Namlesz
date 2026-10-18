@@ -8,6 +8,6 @@
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Namlesz&bg_color=050B07&color=1E8A42&line=33FF66&point=FFB000&area=true&area_color=33FF66&hide_border=true&custom_title=%24%20git%20log%20--graph" alt="GitHub contribution activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Namlesz&bg_color=050B07&color=1E8A42&line=33FF66&point=FFB000&area=true&hide_border=true&custom_title=%24%20git%20log%20--graph" alt="GitHub contribution activity" />
 
 </div>
